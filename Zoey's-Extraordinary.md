@@ -12,21 +12,18 @@
   - 嚴厲管教
 > They showered me with praise for everything that I did.
   - "showered" 在這句話中的用法是「傾瀉」、「大量地」的意思。他們對我做的每一件事都讚美有加
-> I cannot believe the lengths.
-  - 無法相信某人願意付出多麽大、多麽極端的努力或採取多麽離譜的行動
-> get in with...  (you're willing to go to get in with our boss.)
-  - 「與...建立關係」、「討好」、「拉攏」
-> hook it up
-  - 是一個非正式的表達，意思是“連接”、“整合”或“將...
 >  cracked open
 
 #### Episode 6. Zoey's Extraordinary Night Out
 > Either way 無論哪種情況、無論如何
 > I think I should call it a night.
   - 結束今晚的活動，上床睡覺
-> 
-> 
-
+> I cannot believe the lengths.
+  - 無法相信某人願意付出多麽大、多麽極端的努力或採取多麽離譜的行動
+> get in with...  (you're willing to go to get in with our boss.)
+  - 「與...建立關係」、「討好」、「拉攏」
+> hook it up
+  - 是一個非正式的表達，意思是“連接”、“整合”或“將...
 > top-shelf 高品質
 #### Episode 7. Zoey's Extraordinary Confession
 #### Episode 8. Zoey's Extraordinary Glitch
