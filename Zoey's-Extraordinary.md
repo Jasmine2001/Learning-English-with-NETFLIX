@@ -32,6 +32,23 @@
   - 克服、從…中恢復過來
 > I didn't peg you for a food court guy.
   - peg 作為動詞使用，意思是「將...歸類為」、「認為...是」
+> I bid you good day.
+  - 一個正式的告別用語
+> drive ... away
+  - “使…離開”或“迫使…離開”
+>  "fall for it"
+  - 「上當受騙」、「相信它」、「被騙」
+> How would you like the team to take it from here?
+  - take 接手
+> I think we're just gonna cook it a little while longer.
+  - cook 讓它繼續發展一段時間
+> on a need-to-know basis
+  - 僅限知情權限者知悉
+> hung(hang) out to dry
+  - 被拋棄」、「被丟下不管」
+> pump the brakes”
+  - 放慢腳步”、“暫停”、“停止”或“減少”
+>  I just scored the best table
 #### Episode 8. Zoey's Extraordinary Glitch
 #### Episode 9. Zoey's Extraordinary Silence
 #### Episode 10. Zoey's Extraordinary Outburst
@@ -51,4 +68,8 @@
 - [ ] blindside 弱點, 措手不及, 猝不及防
 - [ ] dabbling (verb) 玩水, 輾轉ㄝ涉足, 淺嚐, 涉獵
 - [ ] Reinstating (verb) 恢復, 復職, 恢復原職
-- [ ] 
+- [ ] aboveboard 光明磊落
+- [ ] commemorative 紀念的, 紀念性的, 慶祝的
+- [ ] amputate 截肢
+- [ ] gawking 呆看, 目瞪口呆, 瞪眼
+- [ ] smug 躊躇滿志, 飄飄然, 俏皮的, 自以為是, 自鳴得意
