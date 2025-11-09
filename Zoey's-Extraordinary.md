@@ -48,8 +48,20 @@
   - 被拋棄」、「被丟下不管」
 > pump the brakes”
   - 放慢腳步”、“暫停”、“停止”或“減少”
->  I just scored the best table
+> I just scored the best table
+> just bear with me
+  - 請耐心等待我一下、請容忍我一下
+> You're starting to seem like a liability, man.
+  - 負擔、麻煩。 說話者認為對方正在變成一個需要照顧或解決問題的負擔
+> on the grind
+  - 努力工作、不斷奮鬥的狀態。通常指長時間且艱苦的工作，例如為了達成目標而付出的巨大努力。
+> hitting it off
+  - 相處融洽、一見如故、很快熟悉
 #### Episode 8. Zoey's Extraordinary Glitch
+> I'm rolling with it
+  - 接受、適應或順應某個情況，即使這個情況原本並非理想或計畫中的。它表示一種隨遇而安、積極應對的態度。
+> Leif is definitely up to something.
+  - "up to something" 表示「做著什麼事，通常是秘密或不尋常的事情」
 #### Episode 9. Zoey's Extraordinary Silence
 #### Episode 10. Zoey's Extraordinary Outburst
 #### Episode 11. Zoey's Extraordinary Mother
@@ -73,3 +85,7 @@
 - [ ] amputate 截肢
 - [ ] gawking 呆看, 目瞪口呆, 瞪眼
 - [ ] smug 躊躇滿志, 飄飄然, 俏皮的, 自以為是, 自鳴得意
+- [ ] grind 努力工作
+- [ ] sleight
+- [ ] oeuvre
+- [ ] sketchy 不可靠的, 靠不住的, 可疑的
