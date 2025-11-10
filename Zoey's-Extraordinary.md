@@ -106,3 +106,8 @@
 - [ ] avert(verb) 避免, 紓
 - [ ] bleak(adj.) 蒼涼, 嚴峻, 蕭條, 蕭瑟, 荒涼, 陰鬱, 暗淡
 - [ ] flair 風格, 天份, 才華, 天賦
+- [ ] earl grey 伯爵茶
+- [ ] devastated 震驚不已, 崩潰
+- [ ] wallow 沉迷
+- [ ] bummed 失望, 沮喪, 不高興, 情緒低落, 自怨自艾
+- [ ] extravagant (adj.) 奢華, 奢侈, 鋪張
