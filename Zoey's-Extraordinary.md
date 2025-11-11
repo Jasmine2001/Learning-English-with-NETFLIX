@@ -78,6 +78,8 @@
 > off-the-cuff
 - 「即興的」、「沒有事先準備的」
 #### Episode 10. Zoey's Extraordinary Outburst
+> "out of the blue" 中的 "out" 是一個介係詞，表示「毫無預兆」、「突如其來」
+> "sticking up for him" 在這句話中表示 為他辯護、支持他。
 #### Episode 11. Zoey's Extraordinary Mother
 #### Episode 12. Zoey's Extraordinary Dad
  
