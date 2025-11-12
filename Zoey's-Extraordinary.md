@@ -125,3 +125,6 @@
 - [ ] espionage 商業間諜行為，即竊取商業機密或情報的行為
 - [ ] insubordination 對抗, 不服從, 叛逆
 - [ ] perkya
+- [ ] hideous  醜陋, 駭人聽聞, 猙獰
+- [ ] grotesque 怪誕的, 怪異的, 奇形怪狀
+- [ ] transcendent  超然的, 卓越的, 出眾的
